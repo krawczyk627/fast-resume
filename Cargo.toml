@@ -3,3 +3,4 @@ name = "fast-resume"
 version = "0.1.0"
 edition = "2021"
 description = "Find that one coding agent session you want to get back to!"
+# match the style used in the rest of the module
